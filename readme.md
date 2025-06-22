@@ -1,4 +1,4 @@
-# Drift Keyboard V3 - Wired Vial Version  
+# Drift Keyboard V3 - Wired Vial-QMK Version  
 
 Drift Keyboard by Timception [INSTAGRAM](https://www.instagram.com/majin.keyboards/) | [Other Links](https://solo.to/timception)  
 
