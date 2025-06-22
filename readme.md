@@ -33,5 +33,5 @@ It is based on the [Original Drift Keyboard by Timception](https://github.com/Ti
 <br/><br/>  
 
 >[!Note]  
->Converting to wireless requires a completely different MCU and firmware, refer to the [Drift Keyboard V3 Wireless](https://github.com/Timception/zmk-config-drift-v3-editor).  
+>Converting to wireless requires a completely different MCU, refer to the [Drift Keyboard V3 Wireless](https://github.com/Timception/zmk-config-drift-v3-editor).  
 >This project would not have been done without the beautiful people from the [QMK](https://github.com/qmk/qmk_firmware) and [VIAL-QMK](https://github.com/vial-kb/vial-qmk) Community - Thank you for making this awesome firmware.  
