@@ -26,9 +26,10 @@
  - [Outer Parts (outer frame pieces)](https://github.com/Timception/zmk-config-drift-v3-editor/tree/main/Outer-Acrylic) - Usually referred to as outer acrylic frame  
 <br/><br/>  
 
->[!Note]  
->Converting to wireless requires a completely different [MCU](https://typeractive.xyz/products/nice-nano?srsltid=AfmBOopMetf7paTuZNdF40KFVV3Wz2GTHhOIjCt8Dya6_cj1KBGjmZew), refer to [Drift Keyboard V3 Wireless](https://github.com/Timception/zmk-config-drift-v3-editor)  
->
->This project would not have been done without the beautiful people from the  
->[QMK](https://github.com/qmk/qmk_firmware) and [VIAL-QMK](https://github.com/vial-kb/vial-qmk) Community  
->Thank you for making this awesome firmware.  
+> [!Note]  
+> Converting to wireless requires a completely different [MCU](https://typeractive.xyz/products/nice-nano?srsltid=AfmBOopMetf7paTuZNdF40KFVV3Wz2GTHhOIjCt8Dya6_cj1KBGjmZew), refer to [Drift Keyboard V3 Wireless](https://github.com/Timception/zmk-config-drift-v3-editor)  
+>  
+> This project would not have been done without the
+> beautiful people from the [QMK](https://github.com/qmk/qmk_firmware) and [VIAL-QMK](https://github.com/vial-kb/vial-qmk) Community
+>  
+> Thank you for making this awesome firmware.  
