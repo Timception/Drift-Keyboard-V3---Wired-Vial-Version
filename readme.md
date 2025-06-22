@@ -1,17 +1,8 @@
-# Drift Keyboard V3 - Wired Vial-QMK Version  
+## Drift Keyboard V3 - Wired Vial-QMK Version  
 
-Drift Keyboard by Timception [INSTAGRAM](https://www.instagram.com/majin.keyboards/) | [Other Links](https://solo.to/timception)  
-
-This is the wired version of the Drift V3 by Timception - It uses the [RP2040 Pro Micro MCU](https://github.com/rroels/kicad_pro_micro_rp2040)  
-
-## The Vial-QMK GUI can be found and downloaded [HERE](https://get.vial.today/download/)
-
-It is based on the [Original Drift Keyboard by Timception](https://github.com/Timception/Drift)  
-
-## For those interested: [Drift Keyboard V3 Wireless](https://github.com/Timception/zmk-config-drift-v3-editor)  
-
- - The original outer acrylic, plates, OLED covers and bottom pieces are all compatible with this version as well  
-<br/><br/>  
+- This is the wired [VIAL-QMK]([https://zmk.dev/](https://github.com/vial-kb/vial-qmk)) version of the [Original Drift Keyboard](https://github.com/Timception/Drift)  
+  - The Drift V3 can also be [wireless](https://github.com/Timception/zmk-config-drift-v3-editor) by changing the [MCU](https://typeractive.xyz/products/nice-nano?srsltid=AfmBOopFI9Umybux3dp1TN_7DWNtLouR52CpvlU_aPLatSFBP0BeY02Y)  
+  - The PCB is not open source, but you could [contact me](https://www.instagram.com/majin.keyboards) if you would like a pair  
 
 
 ## 3D Printable Accessories  
