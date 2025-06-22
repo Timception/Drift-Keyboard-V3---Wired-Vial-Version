@@ -10,7 +10,7 @@ It is based on the [Original Drift Keyboard by Timception](https://github.com/Ti
 
 ## For those interested: [Drift Keyboard V3 Wireless](https://github.com/Timception/zmk-config-drift-v3-editor)  
 
- - The outer acrylic, plates, OLED covers and bottom pieces are all compatible with this version as well  
+ - The original outer acrylic, plates, OLED covers and bottom pieces are all compatible with this version as well  
 <br/><br/>  
 
 
@@ -33,7 +33,7 @@ It is based on the [Original Drift Keyboard by Timception](https://github.com/Ti
 <br/><br/>  
 
 >[!Note]  
->Converting to wireless requires a completely different [MCU](https://typeractive.xyz/products/nice-nano?srsltid=AfmBOopMetf7paTuZNdF40KFVV3Wz2GTHhOIjCt8Dya6_cj1KBGjmZew), refer to [Drift Keyboard V3 Wireless](https://github.com/Timception/zmk-config-drift-v3-editor)Add commentMore actions
+>Converting to wireless requires a completely different [MCU](https://typeractive.xyz/products/nice-nano?srsltid=AfmBOopMetf7paTuZNdF40KFVV3Wz2GTHhOIjCt8Dya6_cj1KBGjmZew), refer to [Drift Keyboard V3 Wireless](https://github.com/Timception/zmk-config-drift-v3-editor)  
 >
->This project would not have been done without the beautiful people from the [QMK](https://github.com/qmk/qmk_firmware) and [VIAL-QMK](https://github.com/vial-kb/vial-qmk) Community
->Thank you for making this awesome firmware.
+>This project would not have been done without the beautiful people from the [QMK](https://github.com/qmk/qmk_firmware) and [VIAL-QMK](https://github.com/vial-kb/vial-qmk) Community  
+>Thank you for making this awesome firmware.  
