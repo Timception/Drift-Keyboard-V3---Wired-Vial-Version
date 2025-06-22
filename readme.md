@@ -2,7 +2,7 @@
 
 Drift Keyboard by Timception [INSTAGRAM](https://www.instagram.com/majin.keyboards/) | [Other Links](https://solo.to/timception)  
 
-This is the wired version of the Drift V3 by Timception - It uses the RP2040 Pro Micro MCU  
+This is the wired version of the Drift V3 by Timception - It uses the [RP2040 Pro Micro MCU](https://github.com/rroels/kicad_pro_micro_rp2040)  
 
 ## The Vial-QMK GUI can be found and downloaded [HERE](https://get.vial.today/download/)
 
