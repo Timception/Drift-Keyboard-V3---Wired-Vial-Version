@@ -1,8 +1,10 @@
 ## Drift Keyboard V3 - Wired Vial-QMK Version  
 
 - This is the wired [VIAL-QMK](https://github.com/vial-kb/vial-qmk) version of the [Original Drift Keyboard](https://github.com/Timception/Drift)  
+
   - The Drift V3 can also be [wireless](https://github.com/Timception/zmk-config-drift-v3-editor) by changing the [MCU](https://typeractive.xyz/products/nice-nano?srsltid=AfmBOopFI9Umybux3dp1TN_7DWNtLouR52CpvlU_aPLatSFBP0BeY02Y)  
-  - The PCB is not open source, but you could [contact me](https://www.instagram.com/majin.keyboards) if you would like a pair
+
+   - The PCB is not open source, but you could [contact me](https://www.instagram.com/majin.keyboards) if you would like a pair
   <br/>  
 
 
